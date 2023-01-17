@@ -34,7 +34,7 @@ class Car
 {
 public:
 	int wheels = 4;
-	const char* color = "red";
+	std::string color = "red";
 	int maxSpeed = 100;
 };  
 
@@ -45,7 +45,7 @@ int main()
 	
     car2.color = "blue"
     
-	std::cout << car1.color << car2.color << std::endl;
+	std::cout << car1.color << " " << car2.color << std::endl;
 }
 ```
 
@@ -53,18 +53,22 @@ int main()
 red blue
 ```
 
-In this example there are two instances of a `car`, where we only set one set of variables. But if we create two car objects, and change the color of one of them, the other one remains unchanged.
+In this example, there are two instances of a `car`, where we only set one set of variables. But if we create two car objects, and change the color of one of them, the other one remains unchanged.
+
+### Members
+A member is another word for a variable that is contained inside a class. These variables, no matter, their visibility can be accessed by all the classes functions also named methods.
 
 
 ### Methods
 
-Methods are just functions that are inside of a class. 
+Methods are just functions that are inside a class. 
 They are often used to manipulate the data inside the class, but they don't have to.
+A method works just like any other function, where you can give them parameters and a return type. But methods have one more thing. They have an invisible pointer to the class it is contained in, which means you have access to all the class variables, even private ones.
 
 
 #### Constructors
 
-A constructor is a method that is called when an object is initialized. It can take parameters like any other method, so it can, and is primarily, used to initialize a class' variables.
+A constructor is a method that is called when an object is initialized. It can take parameters like any other method, so it can, and is primarily, used to initialize a class's variables.
 
 You can make a constructor by making a method with no type (not even void), and then give it the exact same name as the class, like this:
 ```cpp
@@ -85,10 +89,10 @@ class Car
 {
 public:
 	int wheels;
-	const char* color;
+	std::string color;
 	int maxSpeed;
 	
-	Car(const int wheelNumber, const char* carColor, const int carMaxSpeed)
+	Car(int wheelNumber, const char* carColor, int carMaxSpeed)
 	{
 		wheels = wheelNumber;
 		color = carColor;
@@ -106,7 +110,7 @@ class Car
 {
 public:
 	int wheels;
-	const char* color;
+	std::string color;
 	int maxSpeed;
 	
 	Car(const int wheelNumber, const char* carColor, const int carMaxSpeed)
@@ -119,7 +123,7 @@ public:
 
 int main()
 {
-	Car car1(4,"black",200);
+	Car car1(4, "black", 200);
 	
 	std::cout << car1.color << std::endl;
 }
@@ -129,17 +133,63 @@ int main()
 black
 ```
 
-
-###### member initializer lists
-
-Member initializer lists is a better way to initialize variables
-
 #### Destructors
+Destructors are the exact same as a constructor, but instead of running while the object is initialized, it runs before it gets destroyed. To write a destructor, you type the symbol `~` before the class name like so:
+```cpp
+class Car
+{
+public:
+	~Car()
+	{
+		std::cout << "Car class has been destroyed" << std::endl;
+	}
+};
+```
+
+Here, the class will print `"Car class has been destroyed"` when the class goes out of scope or gets deleted.
+
+###### Member initializer lists
+A member initializer list is a better way to initialize variables in a class. Instead of first declaring the variable, and then defining that variable later in the constructor. Which takes time and recourses from your computer. You can define the variables as they are being created.
+
+To do this, write a colon after your constructor, then the name of the variable you want to define, then you define the variable in a set of parentheses. Here is the previous example to show this:
+```cpp
+class Car
+{
+public:
+	int wheels;
+	std::string color;
+	int maxSpeed;
+	
+	Car(const int wheelNumber, const char* carColor, const int carMaxSpeed)
+	{
+		wheels = wheelNumber;
+		color = carColor;
+		maxSpeed = carMaxSpeed;
+	}
+}; 
+```
+
+Instead of the code above, you can write it like this:
+```cpp
+class Car
+{
+public:
+	int wheels;
+	std::string color;
+	int maxSpeed;
+	
+	Car(const int wheelNumber, const char* carColor, const int carMaxSpeed)
+		: wheels(wheelNumber), color(carColor), maxSpeed(carMaxSpeed)
+	{
+	
+	}
+}; 
+```
+Here it is important to note that the variables are defined in the same order as they are declared.
+If written in the wrong order, you may get errors. 
 
 
 ### Visibility
-
-
 
 
 ## Other types of classes

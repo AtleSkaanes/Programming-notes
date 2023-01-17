@@ -22,7 +22,7 @@ int main()
 
 `int main()` returns an `int` this mean that the function must call `return` else it will fail. But in c++ this is done automaticly. Meaning if your code finished running, your main function will return a value of `0`.
 
-This however whont work if you are using some libraries. Some libraries like #SDL for example require c syntaxing of the main function in order to run. That would look like this:
+This however won't work if you are using some libraries. Some libraries like #SDL for example require c syntaxing of the main function in order to run. That would look like this:
 ```cpp
 int main(int argc, char* argv[])
 {
