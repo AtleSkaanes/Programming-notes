@@ -71,7 +71,7 @@ You can group variables in arrays. Arrays look like this:
 ```cpp
 int myArr[] = {1, 2, 3, 4};
 ```
-
+You can now access each member of the array by using `[n]` Where `n` is the index of the variable starting at 0. Go to [[Arrays]] for further details.
 ## Functions
 
 

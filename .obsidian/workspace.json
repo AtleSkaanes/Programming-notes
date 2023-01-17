@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cpp/General c++ notes.md",
+                "file": "Variables and pointers/Arrays.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cpp/General c++ notes.md",
+                "file": "Variables and pointers/Arrays.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cpp/General c++ notes.md",
+                "file": "Variables and pointers/Arrays.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cpp/General c++ notes.md"
+                "file": "Variables and pointers/Arrays.md"
               }
             }
           },
@@ -199,11 +199,11 @@
   },
   "active": "a6142495ac0c76dd",
   "lastOpenFiles": [
+    "Variables and pointers/Arrays.md",
+    "cpp/General c++ notes.md",
     "cpp/Classes/Classes in c++.md",
     "cpp/Classes in c++.md",
     "Variables and pointers/Pointers.md",
-    "cpp/General c++ notes.md",
-    "Variables and pointers/Arrays.md",
     "Untitled.canvas"
   ]
 }
