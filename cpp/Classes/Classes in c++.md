@@ -66,10 +66,73 @@ They are often used to manipulate the data inside the class, but they don't have
 
 A constructor is a method that is called when an object is initialized. It can take parameters like any other method, so it can, and is primarily, used to initialize a class' variables.
 
-If we take our previous `Car` class and give it a constructor
+You can make a constructor by making a method with no type (not even void), and then give it the exact same name as the class, like this:
+```cpp
+class Object
+{
+	Object()
+	{
+		// This is the constructor
+	}
+};
+```
+
+
+If we take our previous `Car` class and give it a constructor, the class could look something like this:
+
+```cpp
+class Car
+{
+public:
+	int wheels;
+	const char* color;
+	int maxSpeed;
+	
+	Car(const int wheelNumber, const char* carColor, const int carMaxSpeed)
+	{
+		wheels = wheelNumber;
+		color = carColor;
+		maxSpeed = carMaxSpeed;
+	}
+}; 
+```
+
+Here the constructor takes three parameters, a variable for how many wheels the car gets, the color, and the max speed of the car, then it sets the equivalent variables to the ones given.
+
+The code block below shows how you could use it:
+
+```cpp
+class Car
+{
+public:
+	int wheels;
+	const char* color;
+	int maxSpeed;
+	
+	Car(const int wheelNumber, const char* carColor, const int carMaxSpeed)
+	{
+		wheels = wheelNumber;
+		color = carColor;
+		maxSpeed = carMaxSpeed;
+	}
+}; 
+
+int main()
+{
+	Car car1(4,"black",200);
+	
+	std::cout << car1.color << std::endl;
+}
+```
+
+```output
+black
+```
+
 
 ###### member initializer lists
 
+Member initializer lists is a better way to initialize variables
 
 #### Destructors
 

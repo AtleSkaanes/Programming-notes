@@ -9,6 +9,7 @@
         "children": [
           {
             "id": "807bbe0be143221b",
+            "id": "8d5de4f7f0a64b73",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -21,14 +22,20 @@
           },
           {
             "id": "a6142495ac0c76dd",
+            "id": "a2c85f569f02de93",
             "type": "leaf",
             "state": {
+<<<<<<< Updated upstream
               "type": "markdown",
               "state": {
                 "file": "cpp/General c++ notes.md",
                 "mode": "source",
                 "source": false
               }
+=======
+              "type": "graph",
+              "state": {}
+>>>>>>> Stashed changes
             }
           }
         ],
@@ -98,7 +105,10 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< Updated upstream
                 "file": "cpp/General c++ notes.md",
+=======
+>>>>>>> Stashed changes
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +125,10 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< Updated upstream
                 "file": "cpp/General c++ notes.md",
+=======
+>>>>>>> Stashed changes
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -129,6 +142,7 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
+                "useHierarchy": false
               }
             }
           },
@@ -137,9 +151,13 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+<<<<<<< Updated upstream
               "state": {
                 "file": "cpp/General c++ notes.md"
               }
+=======
+              "state": {}
+>>>>>>> Stashed changes
             }
           },
           {
@@ -160,6 +178,7 @@
           }
         ],
         "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -178,9 +197,23 @@
     }
   },
   "active": "a6142495ac0c76dd",
+  "active": "a2c85f569f02de93",
   "lastOpenFiles": [
+<<<<<<< Updated upstream
     "cpp/Classes in c++.md",
     "cpp/General c++ notes.md",
     "Untitled.canvas"
+=======
+    "cpp/Libraries/SDL.md",
+    "cpp/General c++ notes.md",
+    "cpp/Libraries/Libraries.md",
+    "cpp/Libraries/header files.md",
+    "cpp/Classes/Classes in c++.md",
+    "2023-01-17.md",
+    "cpp/Classes/Enums in c++.md",
+    "cpp/Classes in c++.md",
+    "cpp/Classes/Structs in c++.md",
+    "cpp/Classes/Interfaces in c++.md"
+>>>>>>> Stashed changes
   ]
 }
