@@ -3,6 +3,12 @@ c++ is a programming language that you can use both as an object-oriented progra
 
 
 
+#### Extern notes
+
+> [[Enums in c++]]
+> [[Interfaces in c++]]
+> [[Structs in c++]]
+
 ## Classes
 
 Classes create a type that holds specific variables and methods.
@@ -55,18 +61,27 @@ Methods are just functions that are inside of a class.
 They are often used to manipulate the data inside the class, but they don't have to.
 
 
-
-
 #### Destructors
 
 
 
-### Structs
-
-  
-
-### Enums
-
-  
-
 ### Visibility
+
+
+
+## Other types of classes
+
+
+### [[Structs in c++]]
+
+In a few words, a struct is a class that only have a few variables, and all of it's methods only manipulate the already given data.
+
+
+### [[Interfaces in c++]]
+
+Interfaces is a class that has method requirements, so if a new class inherits from the interface, it has to include those methods
+
+### [[Enums in c++]]
+
+Enums is an object that
+  
