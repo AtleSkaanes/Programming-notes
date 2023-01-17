@@ -57,7 +57,20 @@ The sizes of the diffrent types are very compiler individual. But the size is ea
 ```cpp
 sizeof(typename);
 ```
+### Arrays
+If you need a large quantity of variables and you don't want to store them like this:
+```cpp
+int var1;
+int var2;
+int var3;
+int var4; 
+// ...
+```
 
+You can group variables in arrays. Arrays look like this:
+```cpp
+int myArr[] = {1, 2, 3, 4};
+```
 
 ## Functions
 
