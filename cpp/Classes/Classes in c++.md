@@ -1,4 +1,4 @@
-c++ is a programming language that can be used both as Object-Oriented Programming (OOP), and as a Functional programming language, but most use it as the former. 
+c++ is a programming language that can be used both as Object-Oriented Programming (OOP), and as Functional programming, but most use it as the former. 
 
 Classes are a part of OOP.
 

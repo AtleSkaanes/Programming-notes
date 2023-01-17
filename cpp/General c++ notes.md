@@ -57,6 +57,8 @@ The sizes of the diffrent types are very compiler individual. But the size is ea
 ```cpp
 sizeof(typename);
 ```
+
+
 ## Functions
 
 
