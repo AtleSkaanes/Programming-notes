@@ -1,7 +1,6 @@
+c++ is a programming language that can be used both as Object-Oriented Programming (OOP), and as a Functional programming language, but most use it as the former. 
 
-c++ is a programming language that you can use both as an object-oriented programming language, and as a functional programming language, but most use it as the former.
-
-
+Classes are a part of OOP.
 
 #### Extern notes
 
@@ -9,16 +8,17 @@ c++ is a programming language that you can use both as an object-oriented progra
 > [[Interfaces in c++]]
 > [[Structs in c++]]
 
+
 ## Classes
 
-Classes create a type that holds specific variables and methods.
-Classes are useful for many reasons, like making objects.
+Classes create a type that holds specific variables and functions.
+Classes are useful for many reasons, like organizing your data and functions.
 If you wanted to make a car with some variables in c++, you could do it like this:
 
 ```cpp
 int carWheels = 4;
 
-char* carColor = "red";
+const char* carColor = "red";
 
 int carMaxSpeed = 100;
 
@@ -34,7 +34,7 @@ class Car
 {
 public:
 	int wheels = 4;
-	char* color = "red";
+	const char* color = "red";
 	int maxSpeed = 100;
 };  
 
@@ -55,17 +55,27 @@ red blue
 
 In this example there are two instances of a `car`, where we only set one set of variables. But if we create two car objects, and change the color of one of them, the other one remains unchanged.
 
+
 ### Methods
 
 Methods are just functions that are inside of a class. 
 They are often used to manipulate the data inside the class, but they don't have to.
 
 
+#### Constructors
+
+A constructor is a method that is called when an object is initialized. It can take parameters like any other method, so it can, and is primarily, used to initialize a class' variables.
+
+If we take our previous `Car` class and give it a constructor
+
+###### member initializer lists
+
+
 #### Destructors
 
 
-
 ### Visibility
+
 
 
 
