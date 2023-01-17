@@ -1,18 +1,18 @@
 
-c++ is a programming language that you can use both as an object-oriented programming language, and as a functional programming language, but most use it as the former.
+c++ is a programming language that can be used both as Object-Oriented Programming (OOP), and as a Functional programming language, but most use it as the former. 
 
-
+Classes are a part of OOP.
 
 ## Classes
 
-Classes create a type that holds specific variables and methods.
-Classes are useful for many reasons, like making objects.
+Classes create a type that holds specific variables and functions.
+Classes are useful for many reasons, like organising your data and functions.
 If you wanted to make a car with some variables in c++, you could do it like this:
 
 ```cpp
 int carWheels = 4;
 
-char* carColor = "red";
+const char* carColor = "red";
 
 int carMaxSpeed = 100;
 
@@ -28,7 +28,7 @@ class Car
 {
 public:
 	int wheels = 4;
-	char* color = "red";
+	const char* color = "red";
 	int maxSpeed = 100;
 };  
 
