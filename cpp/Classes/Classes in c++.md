@@ -148,7 +148,7 @@ public:
 
 Here, the class will print `"Car class has been destroyed"` when the class goes out of scope or gets deleted.
 
-###### Member initializer lists
+#### Member initializer lists
 A member initializer list is a better way to initialize variables in a class. Instead of first declaring the variable, and then defining that variable later in the constructor. Which takes time and recourses from your computer. You can define the variables as they are being created.
 
 To do this, write a colon after your constructor, then the name of the variable you want to define, then you define the variable in a set of parentheses. Here is the previous example to show this:
@@ -197,14 +197,12 @@ If written in the wrong order, you may get errors.
 
 ### [[Structs in c++]]
 
-In a few words, a struct is a class that only have a few variables, and all of it's methods only manipulate the already given data.
+In a few words, a struct is a class that as a standard has its methods and members public. While all a class's methods and members are private, if not specified otherwise.
+However, structs are very rarely used this way, and are most often used to represent a dataset. Like a vector 2, or coordinates.
 
 
 ### [[Interfaces in c++]]
 
-Interfaces is a class that has method requirements, so if a new class inherits from the interface, it has to include those methods
+Interfaces are like class blueprints that other classes can inherit from, so if a new class inherits from the interface, it has to include all the methods the interface has. These functions can then be overwritten.
 
 ### [[Enums in c++]]
-
-Enums is an object that
-  
