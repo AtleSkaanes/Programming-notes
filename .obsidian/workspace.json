@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cpp/Classes/Classes in c++.md",
+                "file": "Variables and pointers/Arrays.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cpp/Classes/Classes in c++.md",
+                "file": "Variables and pointers/Arrays.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cpp/Classes/Classes in c++.md",
+                "file": "Variables and pointers/Arrays.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cpp/Classes/Classes in c++.md"
+                "file": "Variables and pointers/Arrays.md"
               }
             }
           },
@@ -202,8 +202,8 @@
   },
   "active": "807bbe0be143221b",
   "lastOpenFiles": [
-    "cpp/Classes/Structs in c++.md",
     "cpp/Classes/Classes in c++.md",
+    "cpp/Classes/Structs in c++.md",
     "cpp/Classes/Enums in c++.md",
     "cpp/General c++ notes.md",
     "Variables and pointers/Arrays.md",

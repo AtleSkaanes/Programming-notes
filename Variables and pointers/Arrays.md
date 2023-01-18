@@ -52,3 +52,41 @@ Look under [[header files]] for more details of headers.
 The smart array comes with a wide range of functions. For example can you now find the size with a simple `.size()` function. You can also get iterators to the beginning and end of the array.
 
 ## Dynamic arrays
+A dynamic array is an array that can grow and shrink in size. This is useful when the data to be stored has a variable size, that can't be determined during compile time. To use a dynamic array in c++ include the header: `vector`.
+A std vector is made like so:
+```cpp
+#include <vector>
+
+std::vector<typename> myDynamicArr;
+```
+
+A vector can be used just like a regular static array via square brackets `[]`. 
+Here is an example using a std vector:
+```cpp
+std::vector<const char*> myArr;
+
+while(true)
+{
+	myArr.push_back(std::cin);
+	if (myArr.back() == "return")
+		break;
+}
+std::cout << myArr[3] << std::endl;
+```
+
+```input
+> Test
+> Hello
+> World
+> Dynamic
+> Array
+> return
+```
+
+```output
+Dynamic
+```
+In the example above the myArr array will take inputs of words from the console until the user types `"return"` then the program will end.
+Go to [CPlusPlus](https://cplusplus.com/reference/vector/vector/) for a detailed guide of all the functions that come included in the vector header.
+
+## Maps
