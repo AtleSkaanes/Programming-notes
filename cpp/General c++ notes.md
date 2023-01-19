@@ -38,7 +38,7 @@ Variables are bits of memory that hold data.
 
 ### Types
 
-Types are an important part of c++. They are used to declare what kind of variable data you are using. If it is a number like an `int` (eg. `5`) or a `float` (eg. `2.3`), or a character like a `char` (eg. `'A'`).
+Types are an important part of c++. They are used to declare what kind of variable data you are using. If it is a number like an `int` (e.g.. `5`) or a `float` (e.g.. `2.3`), or a character like a `char` (e.g.. `'A'`).
 
 Even though they are designed to hold different data, basically the only difference between them is the amount of memory they hold. And how your computer uses them.
 

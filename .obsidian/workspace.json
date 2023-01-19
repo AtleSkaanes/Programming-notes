@@ -40,7 +40,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript/General JS notes.md",
+                "file": "cpp/General c++ notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Javascript/General JS notes.md",
+                "file": "cpp/General c++ notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Javascript/General JS notes.md"
+                "file": "cpp/General c++ notes.md"
               }
             }
           },
@@ -185,10 +185,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8d5de4f7f0a64b73",
+  "active": "a2c85f569f02de93",
   "lastOpenFiles": [
-    "cpp/General c++ notes.md",
     "Javascript/General JS notes.md",
+    "cpp/General c++ notes.md",
     "cpp/Classes/Classes in c++.md",
     "cpp/Variables and pointers/Pointers & References.md",
     "cpp/Classes/Enums in c++.md",
