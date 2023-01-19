@@ -43,3 +43,10 @@ let string3 = string1 + string2;
 console.log(number3);
 console.log(string3);
 ```
+
+```output
+3
+Hello World!
+```
+
+Not only did we 
