@@ -4,7 +4,7 @@ It is a newer language, being introduced in 1995 by Brendan Eich.
 
 #### Extern notes
 > [[General c++ notes]]
-> 
+> [[Variables in JS]]
 
 
 ## Basics
@@ -31,12 +31,9 @@ As you can see in the code above, we created two variables `a` and `b`, and the 
 ### Types
 As previously mentioned, `JavaScript` is a dynamically typed language, so you don't have to declare what `type` a variable has. Therefore, there are only a few variable types that you need to know about.
 
-| Variable | Example                  | Note              |
-| -------- | ------------------------ | ----------------- |
-| Number   | 5, 2.4, 10               |                   | 
-| String   | "Hello World!", "35"     | [[Strings in JS]] |
-| Array    | [5,2,6], ["this","that"] | [[Arrays in JS]]  |
+| Variable | Example                  |
+| -------- | ------------------------ |
+| Number   | 5, 2.4, 10               |
+| String   | "Hello World!", "35"     |
+| Array    | [5,2,6], ["this","that"] |
 
-### Keywords
-
-beside types, you can get different variables depending on the keyword you choose to initialize it with
