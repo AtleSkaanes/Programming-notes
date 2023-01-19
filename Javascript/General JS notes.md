@@ -1,1 +1,1 @@
-JavaScript is a language is a dynamically typed high level programming language, which basically means that it automat
+JavaScript is a language is a dynamically typed high level programming language, which basically means that it automatically assigns types to variables. 
