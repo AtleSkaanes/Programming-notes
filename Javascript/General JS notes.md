@@ -28,4 +28,4 @@ As you can see in the code above, we created two variables `a` and `b`, and the 
 
 ## Variables
 
-There are a few different main 
+Variables in `JavaScri`
