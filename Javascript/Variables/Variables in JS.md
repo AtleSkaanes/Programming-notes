@@ -29,4 +29,4 @@ There are 3 variable keywords:
 
 So if you want to declare a variable that you should be able to change, then use `let`, you can still use `var`, but the modern approach is to use `let`. This is useful for counters, arrays that can change, and most other use cases for variables.
 
-Or if you want to have a variable that remains the same, and is unable to change, use `const`. This is useful for creating con
+Or if you want to have a variable that remains the same, and is unable to change, use `const`. This is useful for creating constant numbers, like having PI in your script. It is also useful for getting HTML objects
