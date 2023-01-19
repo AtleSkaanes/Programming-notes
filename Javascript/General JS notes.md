@@ -7,4 +7,4 @@ It is a newer language, being introduced in 1995 by Brendan Eich.
 
 ### Basic setup
 
-Unlike `c++` and `c#`, `JavaScript` doesn't have a specific function or class that you need to have your code in for it to run. You can just set up 
+Unlike `c++` and `c#`, `JavaScript` doesn't have a specific function or class that you need to have your code in for it to run. You can just 
