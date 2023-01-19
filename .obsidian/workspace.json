@@ -175,7 +175,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 222.5
+    "width": 222.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,7 +189,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "eb5916335c225a8c",
+  "active": "53881d6eb9dbbee4",
   "lastOpenFiles": [
     "Javascript/Variables/Variables in JS.md",
     "Javascript/General JS notes.md",
