@@ -26,4 +26,5 @@ As you can see in the code above, we created two variables `a` and `b`, and the 
 
 ## Variables
 
-As previously mentioned, `JavaScript` is a dynamically typed langauge, so you don't have to declare what 
+As previously mentioned, `JavaScript` is a dynamically typed language, so you don't have to declare what `type` a variable has. Therefore, there are only a few variable types that you need to know about.
+
