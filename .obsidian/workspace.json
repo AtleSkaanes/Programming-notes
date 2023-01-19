@@ -23,15 +23,12 @@
             "id": "0cba153f9323c3db",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Javascript/Variables/Variables in JS.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript/Variables/Variables in JS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Javascript/Variables/Variables in JS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Javascript/Variables/Variables in JS.md"
-              }
+              "state": {}
             }
           },
           {
@@ -176,10 +169,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ae6e1fa96e4956b0",
+  "active": "0cba153f9323c3db",
   "lastOpenFiles": [
-    "Javascript/Variables/Strings in JS.md",
     "Javascript/Variables/Variables in JS.md",
+    "Javascript/Variables/Strings in JS.md",
     "Javascript/General JS notes.md",
     "cpp/Classes/Classes in c++.md",
     "Javascript/Variables/Arrays/Arrays in JS.md",

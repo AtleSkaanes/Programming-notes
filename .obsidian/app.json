@@ -13,6 +13,7 @@
     "Enums",
     "syntaxing",
     "Eich",
-    "Extern"
+    "Extern",
+    "const"
   ]
 }
