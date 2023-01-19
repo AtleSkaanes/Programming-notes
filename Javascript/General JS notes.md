@@ -22,5 +22,5 @@ console.log(a + b);
 11
 ```
 
-As you can see in the code above, we created two variables `a` and `b`, and the way we did that was with the `let` keywoard
+As you can see in the code above, we created two variables `a` and `b`, and the way we did that was with the `let` keyword. We also used `console.log()`, which is the way that `javaScript` outputs 
 
