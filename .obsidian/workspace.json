@@ -63,7 +63,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -129,6 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "cpp/General c++ notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,6 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "cpp/General c++ notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +169,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "cpp/General c++ notes.md"
+              }
             }
           },
           {
@@ -204,7 +209,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cea90416cca8e89f",
+  "active": "a2c85f569f02de93",
   "lastOpenFiles": [
     "Javascript/Variables/Strings in JS.md",
     "Javascript/Variables/Arrays in JS.md",
