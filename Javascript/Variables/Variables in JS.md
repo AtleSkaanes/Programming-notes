@@ -20,9 +20,9 @@ As previously mentioned, `JavaScript` is a dynamically typed language, so you do
 Beside types, you can get different variables depending on the keyword you choose to initialize it with.
 There are 3 variable keywords:
 
-| Keyword | Usage                                                                      | When were/is it used |
-| ------- | -------------------------------------------------------------------------- | -------------------- |
-| let     | To declare a variable that can change, isn't supported in older browsers   | 2015 - ...           |
-| const   | To declare a variable that can't change, isn't supported in older browsers | 2015 - ...           |
-| Var     | Old way to declare a va                                                                           |                      |
+| Keyword | Usage                                                                          | When were/is it used |
+| ------- | ------------------------------------------------------------------------------ | -------------------- |
+| let     | To declare a variable that can change, **isn't** supported in older browsers   | 2015 - ...           |
+| const   | To declare a variable that can't change, **isn't** supported in older browsers | 2015 - ...           |
+| Var     | Old way to declare a variable, **is** supported in older browsers              |     1995 - 2015                 | 
 
