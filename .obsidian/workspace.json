@@ -11,8 +11,12 @@
             "id": "a2c85f569f02de93",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Javascript/Variables/Strings in JS.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -129,6 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Javascript/Variables/Strings in JS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,6 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Javascript/Variables/Strings in JS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +172,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Javascript/Variables/Strings in JS.md"
+              }
             }
           },
           {
@@ -206,9 +214,9 @@
   },
   "active": "a2c85f569f02de93",
   "lastOpenFiles": [
-    "Javascript/General JS notes.md",
     "Javascript/Variables/Objects in JS.md",
     "Javascript/Variables/Arrays in JS.md",
+    "Javascript/General JS notes.md",
     "cpp/General c++ notes.md",
     "Javascript/Variables/Strings in JS.md",
     "cpp/Classes/Classes in c++.md",
