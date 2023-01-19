@@ -49,4 +49,4 @@ console.log(string3);
 Hello World!
 ```
 
-Not only did we 
+Not only did we instantiate the variables here, we also explored what would happen if we added two together!

@@ -17,4 +17,4 @@ As previously mentioned, `JavaScript` is a dynamically typed language, so you do
 
 ### Keywords
 
-beside types, you can get different variables depending on the keyword you choose to initialize it with
+Beside types, you can get different variables depending on the keyword you choose to initialize it with.
