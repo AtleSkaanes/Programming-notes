@@ -18,3 +18,4 @@ As previously mentioned, `JavaScript` is a dynamically typed language, so you do
 ### Keywords
 
 Beside types, you can get different variables depending on the keyword you choose to initialize it with.
+There are 3 
