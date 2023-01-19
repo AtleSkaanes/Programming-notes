@@ -33,13 +33,20 @@ Or if you want to have a variable that remains the same, and is unable to change
 
 ```js
 let counter = 0;
-counter = counter + 1;
 
-const PI = 3.14;
+counter = counter + 1;
 
 console.log(counter);
 
+
+const PI = 3.14;
+
 PI = PI + 1;
-console.log()
+
+console.log(PI);
+```
+
+```Output
+1
 
 ```
