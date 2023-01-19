@@ -171,12 +171,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 222.5,
-    "collapsed": true
+    "width": 222.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,7 +188,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "53881d6eb9dbbee4",
+  "active": "eb5916335c225a8c",
   "lastOpenFiles": [
     "Javascript/Variables/Variables in JS.md",
     "Javascript/General JS notes.md",
