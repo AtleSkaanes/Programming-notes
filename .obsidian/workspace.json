@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Javascript/General JS notes.md",
+                "file": "cpp/Classes/Classes in c++.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript/General JS notes.md",
+                "file": "cpp/Classes/Classes in c++.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Javascript/General JS notes.md",
+                "file": "cpp/Classes/Classes in c++.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Javascript/General JS notes.md"
+                "file": "cpp/Classes/Classes in c++.md"
               }
             }
           },
@@ -191,8 +191,8 @@
   },
   "active": "53881d6eb9dbbee4",
   "lastOpenFiles": [
-    "Javascript/Variables/Variables in JS.md",
     "Javascript/General JS notes.md",
+    "Javascript/Variables/Variables in JS.md",
     "Javascript/Variables/Arrays in JS.md",
     "Javascript/Variables/Strings in JS.md",
     "Javascript/Variables/Objects in JS.md",
