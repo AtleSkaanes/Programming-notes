@@ -4,7 +4,8 @@ It is a newer language, being introduced in 1995 by Brendan Eich.
 
 #### Extern notes
 > [[General c++ notes]]
-> [[]]
+> [[Arrays in JS]]
+> [[Strings in JS]]
 
 ## Basics
 
