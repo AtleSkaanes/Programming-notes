@@ -63,8 +63,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -130,7 +129,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript/General JS notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +145,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Javascript/General JS notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -169,9 +166,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Javascript/General JS notes.md"
-              }
+              "state": {}
             }
           },
           {
@@ -209,10 +204,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "53881d6eb9dbbee4",
+  "active": "a2c85f569f02de93",
   "lastOpenFiles": [
-    "Javascript/Variables/Objects in JS.md",
     "Javascript/General JS notes.md",
+    "Javascript/Variables/Objects in JS.md",
     "Javascript/Variables/Arrays in JS.md",
     "cpp/General c++ notes.md",
     "Javascript/Variables/Strings in JS.md",
