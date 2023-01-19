@@ -8,54 +8,27 @@
         "type": "tabs",
         "children": [
           {
-            "id": "807bbe0be143221b",
+            "id": "8d5de4f7f0a64b73",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Variables and pointers/Arrays.md",
+                "file": "cpp/Classes/Classes in c++.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a6142495ac0c76dd",
+            "id": "a2c85f569f02de93",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Variables and pointers/Arrays.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "e758443b52b86360",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cpp/Libraries/header files.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "00f7d2e84c1acd17",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Variables and pointers/Arrays.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -121,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Variables and pointers/Arrays.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +110,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Variables and pointers/Arrays.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +122,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": false
               }
             }
           },
@@ -160,9 +131,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Variables and pointers/Arrays.md"
-              }
+              "state": {}
             }
           },
           {
@@ -182,7 +151,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -200,16 +169,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "807bbe0be143221b",
+  "active": "a2c85f569f02de93",
   "lastOpenFiles": [
-    "cpp/Classes/Classes in c++.md",
-    "cpp/Classes/Structs in c++.md",
-    "cpp/Classes/Enums in c++.md",
     "cpp/General c++ notes.md",
-    "Variables and pointers/Arrays.md",
+    "cpp/Variables and pointers/Pointers & References.md",
+    "cpp/Classes/Classes in c++.md",
+    "cpp/Classes/Enums in c++.md",
+    "cpp/Classes/Interfaces in c++.md",
+    "cpp/Classes/Structs in c++.md",
+    "cpp/Variables and pointers/Arrays.md",
     "cpp/Libraries/header files.md",
-    "cpp/Classes in c++.md",
-    "Variables and pointers/Pointers.md",
-    "Untitled.canvas"
+    "cpp/Libraries/Libraries.md",
+    "cpp/Libraries/SDL.md"
   ]
 }

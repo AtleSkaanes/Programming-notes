@@ -4,6 +4,8 @@ C++ is an older programming language from 1985, made by the Danish man Bjarne St
 #### Extern notes
 
 > [[Classes in c++]]
+> [[Arrays]] 
+> [[Pointers & References]]
 
 
 ## Basics
@@ -53,12 +55,12 @@ Here is a table of the basic types, and how much data they represent.
 | double      | 4 ***OR*** 8  | 31 ***OR*** 63  | up to 15 decimal points of accuracy                  |
 | long double | 8 ***OR*** 16 | 63 ***OR*** 127 | Many points of accuracy                                                     |
 
-The sizes of the diffrent types are very compiler individual. But the size is easily found via this line of code: ```
+The sizes of the different types are very compiler individual. But the size is easily found via this line of code: ```
 ```cpp
 sizeof(typename);
 ```
 ### Arrays
-If you need a large quantity of variables and you don't want to store them like this:
+If you need a large quantity of variables, and you don't want to store them like this:
 ```cpp
 int var1;
 int var2;
@@ -72,6 +74,11 @@ You can group variables in arrays. Arrays look like this:
 int myArr[] = {1, 2, 3, 4};
 ```
 You can now access each member of the array by using `[n]` Where `n` is the index of the variable starting at 0. Go to [[Arrays]] for further details.
+
+### Pointers and References
+
+Go to [[Pointers & References]] for more information
+
 ## Functions
 
 
