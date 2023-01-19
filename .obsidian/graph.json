@@ -11,7 +11,14 @@
       "query": "path:cpp",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 1925561
+      }
+    },
+    {
+      "query": "path:Javascript",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
       }
     }
   ],
@@ -25,6 +32,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.19445802933978,
+  "scale": 0.7829652715507407,
   "close": true
 }
