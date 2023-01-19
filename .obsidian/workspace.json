@@ -20,18 +20,6 @@
             }
           },
           {
-            "id": "53881d6eb9dbbee4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Javascript/Variables/Variables in JS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "0cba153f9323c3db",
             "type": "leaf",
             "state": {
@@ -43,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -189,13 +176,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "53881d6eb9dbbee4",
+  "active": "ae6e1fa96e4956b0",
   "lastOpenFiles": [
+    "Javascript/Variables/Strings in JS.md",
     "Javascript/Variables/Variables in JS.md",
     "Javascript/General JS notes.md",
     "cpp/Classes/Classes in c++.md",
     "Javascript/Variables/Arrays/Arrays in JS.md",
-    "Javascript/Variables/Strings in JS.md",
     "Javascript/Variables/Objects in JS.md",
     "cpp/General c++ notes.md",
     "cpp/Variables and pointers/Pointers & References.md",

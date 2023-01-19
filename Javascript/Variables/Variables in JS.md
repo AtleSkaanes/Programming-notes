@@ -12,7 +12,7 @@ As previously mentioned, `JavaScript` is a dynamically typed language, so you do
 | Variable | Example                  | Note              |
 | -------- | ------------------------ | ----------------- |
 | Number   | 5, 2.4, 10               |                   | 
-| String   | "Hello World!", "35"     | [[Strings in JS]] |
+| String   | "Hello World!", "35"     | [(A)[Strings in JS]] |
 | Array    | [5,2,6], ["this","that"] | [[Arrays in JS]]  |
 
 ### Keywords
@@ -24,5 +24,6 @@ There are 3 variable keywords:
 | ------- | ------------------------------------------------------------------------------ | -------------------- |
 | let     | To declare a variable that can change, **isn't** supported in older browsers   | 2015 - ...           |
 | const   | To declare a variable that can't change, **isn't** supported in older browsers | 2015 - ...           |
-| Var     | Old way to declare a variable, **is** supported in older browsers              |     1995 - 2015                 | 
+| Var     | Old way to declare a variable, **is** supported in older browsers              | 1995 - 2015          |
+
 
