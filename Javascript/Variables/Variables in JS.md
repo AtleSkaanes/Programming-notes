@@ -27,5 +27,5 @@ There are 3 variable keywords:
 | Var     | Old way to declare a variable, **is** supported in older browsers              | 1995 - 2015          |
 
 
-So if you want to declare a variable that you should be able to change, then use `let`, you can still use `var`, but the modern approach is to use `let`.
-Or if you want to have a variable that remains the same, and is unable to change, use `const`.
+So if you want to declare a variable that you should be able to change, then use `let`, you can still use `var`, but the modern approach is to use `let`. This is useful for counters, arrays that can c
+Or if you want to have a variable that remains the same, and is unable to change, use `const`. This is usef
