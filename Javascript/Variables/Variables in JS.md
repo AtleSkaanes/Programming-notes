@@ -35,6 +35,11 @@ Or if you want to have a variable that remains the same, and is unable to change
 let counter = 0;
 counter = counter + 1;
 
-const 
+const PI = 3.14;
+
+console.log(counter);
+
+PI = PI + 1;
+console.log()
 
 ```
