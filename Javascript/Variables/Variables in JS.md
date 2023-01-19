@@ -14,3 +14,7 @@ As previously mentioned, `JavaScript` is a dynamically typed language, so you do
 | Number   | 5, 2.4, 10               |                   | 
 | String   | "Hello World!", "35"     | [[Strings in JS]] |
 | Array    | [5,2,6], ["this","that"] | [[Arrays in JS]]  |
+
+### Keywords
+
+beside types, you can get different variables depending on the keyword you choose to initialize it with
