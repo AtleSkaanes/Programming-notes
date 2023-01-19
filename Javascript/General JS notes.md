@@ -38,7 +38,8 @@ let number3 = number1 + number2;
 
 let string1 = "Hello";
 let string2 = " World!";
-le
+let string3 = string1 + string2;
 
-
+console.log(number3);
+console.log(string3);
 ```
