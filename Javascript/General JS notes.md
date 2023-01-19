@@ -28,4 +28,5 @@ As you can see in the code above, we created two variables `a` and `b`, and the 
 
 ## Variables
 
-Variables in `JavaScript` don't need a type-name to be initialized
+Variables in `JavaScript` don't need a type-name to be initialized, they do however need a keyword like `let`,  `var` or `const`.
+An example of 
