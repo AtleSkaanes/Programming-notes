@@ -32,7 +32,13 @@ Variables in `JavaScript` don't need a type-name to be initialized, they do howe
 An example of initializing a few different arrays could be:
 
 ```js
-let number1 = 5;
-let nu
+let number1 = 1;
+let number2 = 2;
+let number3 = number1 + number2;
+
+let string1 = "Hello";
+let string2 = " World!";
+le
+
 
 ```
