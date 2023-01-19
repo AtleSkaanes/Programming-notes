@@ -2,3 +2,5 @@ JavaScript is a language is a dynamically typed high level programming language,
 
 It is a newer language, being introduced in 1995 by Brendan Eich.
 
+
+## Basics
