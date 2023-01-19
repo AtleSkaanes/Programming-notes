@@ -107,5 +107,4 @@ In the example above we use the `iostream` library to print `"Hello World!"` to 
 
 `Iostream` is a library made by Jerry Schwarz, that is now included in the c++ library, this means you don't have to type `.h` after it, like you have to do with your own header files (we'll get into that later), and libraries that you downloaded. This is implementet to tell the diffrence between c and c++ libraries since both are compapitble.
 
-### Header files
-
+For more information about libraries, go to [[Libraries]] 
