@@ -101,9 +101,9 @@ int main ()
 {
   std::unordered_map<std::string,std::string> mymap;
 
-  mymap["Bakery"]="Barbara";  // new element inserted
-  mymap["Seafood"]="Lisa";    // new element inserted
-  mymap["Produce"]="John";    // new element inserted
+  mymap["Bakery"] = "Barbara";  // new element inserted
+  mymap["Seafood"] = "Lisa";    // new element inserted
+  mymap["Produce"] = "John";    // new element inserted
 
   std::string name = mymap["Bakery"];   // existing element accessed (read)
   mymap["Seafood"] = name;              // existing element accessed (written)
@@ -189,4 +189,4 @@ int main()
 5 : 10
 3 : 5
 ```
-This is what an output could look like if the contents are looped over. They are placed randomly inside 
+This is what an output could look like if the contents are looped over. They are placed randomly inside the map, where it fits best. 
