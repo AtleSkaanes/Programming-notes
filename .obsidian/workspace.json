@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Javascript/Variables/Arrays/Array methods/array.splice().md",
+                "file": "www.youtube.com.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -153,6 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "www.youtube.com.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,6 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "www.youtube.com.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -190,7 +193,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "www.youtube.com.md"
+              }
             }
           },
           {
@@ -228,14 +233,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ae6e1fa96e4956b0",
+  "active": "ac91b022d35e4036",
   "lastOpenFiles": [
+    "Javascript/Variables/Arrays/Array methods/array.splice().md",
+    "Javascript/Variables/Arrays/Array methods/Add or remove elemets of an array.md",
     "cpp/Libraries/header files.md",
     "cpp/Variables and pointers/Arrays.md",
     "cpp/General c++ notes.md",
     "Javascript/General JS notes.md",
-    "Javascript/Variables/Arrays/Array methods/array.splice().md",
-    "Javascript/Variables/Arrays/Array methods/Add or remove elemets of an array.md",
     "Javascript/Variables/Arrays/Array methods/array.reduce().md",
     "Javascript/Variables/Arrays/Array methods/array.join().md",
     "Javascript/Variables/Arrays/Array methods/array.forEach() and .map().md",
