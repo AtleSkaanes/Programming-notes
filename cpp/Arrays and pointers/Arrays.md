@@ -4,6 +4,8 @@
 An array is a data structure. It's used to organize multiple variables in one accessibly place. In memory the contents of the array are laid out in order and the computer finds each element by looking at your given index and the type of the array.
 If the array is an integer array. Each element takes 4 bytes, that means that variable number 2 must be 4 bytes further out than number 1. And variable 3 must be 8 further out.
 
+An array is in fact just a pointer to the place in memory where element 1 is located. 
+
 #### Create an array
 ```cpp
 int arrName[Optional size] = {1, 2, 3, 15};
