@@ -2,4 +2,12 @@
 
 ## Array methods
 
-# > 5
+### [[array.join()]]
+
+### [[array.reduce()]]
+
+### [[array.splice()]]
+
+### [[array.pop() & .push()]]
+
+### [[array.]]
