@@ -8,7 +8,6 @@ C++ is an older programming language from 1985, made by the Danish man Bjarne St
 > [[Pointers & References]]
 > [[Libraries]]
 
-$$\tag{(7.23)} \ce{HA + OH -> H2O + A-}$$
 
 ## Basics
 

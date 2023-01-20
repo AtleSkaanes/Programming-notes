@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "e0c30c76c3c050ba",
+        "id": "073d7a9c7f0415bb",
         "type": "tabs",
         "children": [
           {
-            "id": "4c24d825a65202f2",
+            "id": "d741d3078209477f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "cpp/General c++ notes.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cpp/General c++ notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cpp/General c++ notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "cpp/General c++ notes.md"
-              }
+              "state": {}
             }
           },
           {
@@ -164,8 +156,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4c24d825a65202f2",
+  "active": "d741d3078209477f",
   "lastOpenFiles": [
+    "cpp/General c++ notes.md",
     "Javascript/Variables/Arrays/Array methods/array.join().md",
     "Javascript/Variables/Arrays/Arrays in JS.md",
     "Javascript/Variables/Const keyword in JS.md",
@@ -174,7 +167,6 @@
     "Javascript/Variables/Variables in JS.md",
     "Javascript/Variables/Arrays/Array methods/array.reduce().md",
     "Javascript/Variables/Arrays/Array methods/array.pop() & .push().md",
-    "Javascript/Variables/Arrays/Array methods/array.map().md",
-    "Javascript/Variables/Arrays/Array methods/array.shift() and .unshift().md"
+    "Javascript/Variables/Arrays/Array methods/array.map().md"
   ]
 }
