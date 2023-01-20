@@ -75,8 +75,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -142,7 +141,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript/Variables/Arrays/Array methods/Add or remove elemets of an array.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +157,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Javascript/Variables/Arrays/Array methods/Add or remove elemets of an array.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,9 +178,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Javascript/Variables/Arrays/Array methods/Add or remove elemets of an array.md"
-              }
+              "state": {}
             }
           },
           {
@@ -221,11 +216,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ee92c2ff0df6b0ae",
+  "active": "ae6e1fa96e4956b0",
   "lastOpenFiles": [
+    "Javascript/Variables/Arrays/Array methods/Add or remove elemets of an array.md",
     "www.youtube.com.md",
     "Javascript/Variables/Arrays/Array methods/array.splice().md",
-    "Javascript/Variables/Arrays/Array methods/Add or remove elemets of an array.md",
     "cpp/Libraries/header files.md",
     "cpp/Variables and pointers/Arrays.md",
     "cpp/General c++ notes.md",
