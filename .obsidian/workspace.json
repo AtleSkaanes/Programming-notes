@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Javascript/Variables/Arrays/Arrays in JS.md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Javascript/Variables/Arrays/Arrays in JS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Javascript/Variables/Arrays/Arrays in JS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Javascript/Variables/Arrays/Arrays in JS.md"
               }
             }
           },
@@ -227,6 +227,7 @@
   },
   "active": "dbfa565756a07485",
   "lastOpenFiles": [
+    "Javascript/Variables/Arrays/Array methods/array.shift() and .unshift().md",
     "Javascript/Variables/Arrays/Array methods/array.pop() & .push().md",
     "Javascript/Variables/Arrays/Array methods/array.splice().md",
     "Javascript/Variables/Arrays/Array methods/array.reduce().md",
@@ -235,7 +236,6 @@
     "cpp/Libraries/header files.md",
     "www.youtube.com.md",
     "cpp/Variables and pointers/Arrays.md",
-    "cpp/General c++ notes.md",
-    "Javascript/General JS notes.md"
+    "cpp/General c++ notes.md"
   ]
 }
