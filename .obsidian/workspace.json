@@ -81,7 +81,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Javascript/General JS notes.md",
+                "file": "cpp/Libraries/header files.md",
                 "mode": "source",
                 "source": false
               }
@@ -230,15 +230,15 @@
   },
   "active": "ae6e1fa96e4956b0",
   "lastOpenFiles": [
+    "cpp/Libraries/header files.md",
+    "cpp/Variables and pointers/Arrays.md",
+    "cpp/General c++ notes.md",
+    "Javascript/General JS notes.md",
     "Javascript/Variables/Arrays/Array methods/array.splice().md",
     "Javascript/Variables/Arrays/Array methods/Add or remove elemets of an array.md",
     "Javascript/Variables/Arrays/Array methods/array.reduce().md",
     "Javascript/Variables/Arrays/Array methods/array.join().md",
     "Javascript/Variables/Arrays/Array methods/array.forEach() and .map().md",
-    "Javascript/Variables/Variables in JS.md",
-    "Javascript/Variables/Const keyword in JS.md",
-    "Javascript/Variables/Strings in JS.md",
-    "Javascript/Variables/Objects in JS.md",
-    "Javascript/General JS notes.md"
+    "Javascript/Variables/Variables in JS.md"
   ]
 }
