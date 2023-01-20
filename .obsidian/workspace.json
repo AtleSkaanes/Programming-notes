@@ -11,8 +11,12 @@
             "id": "ae6e1fa96e4956b0",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Javascript/Variables/Arrays/Array methods/Add or remove elemets of an array.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -129,6 +133,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Javascript/Variables/Arrays/Array methods/Add or remove elemets of an array.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,6 +150,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Javascript/Variables/Arrays/Array methods/Add or remove elemets of an array.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +172,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Javascript/Variables/Arrays/Array methods/Add or remove elemets of an array.md"
+              }
             }
           },
           {
