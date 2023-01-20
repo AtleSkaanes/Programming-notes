@@ -16,4 +16,4 @@
 
 ### [[array.pop() & .push()]]
 
-### [[a]]
+### [[array.shift() and .unshift()]]

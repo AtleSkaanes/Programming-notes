@@ -8,91 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "ae6e1fa96e4956b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Javascript/Variables/Arrays/Array methods/array.pop() & .push().md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dbfa565756a07485",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Javascript/Variables/Arrays/Array methods/array.forEach().md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a101d2f12ea7dd70",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Javascript/Variables/Arrays/Arrays in JS.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ee92c2ff0df6b0ae",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Javascript/Variables/Arrays/Array methods/array.pop() & .push().md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "327616d005024d19",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Javascript/Variables/Arrays/Array methods/array.join().md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4194157c2734dcde",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Javascript/Variables/Arrays/Array methods/array.reduce().md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "4c24d825a65202f2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Javascript/Variables/Variables in JS.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -158,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript/Variables/Arrays/Arrays in JS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Javascript/Variables/Arrays/Arrays in JS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Javascript/Variables/Arrays/Arrays in JS.md"
-              }
+              "state": {}
             }
           },
           {
@@ -237,17 +156,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a101d2f12ea7dd70",
+  "active": "4c24d825a65202f2",
   "lastOpenFiles": [
-    "Javascript/Variables/Arrays/Array methods/array.map().md",
-    "Javascript/Variables/Arrays/Array methods/array.forEach().md",
-    "Javascript/Variables/Arrays/Arrays in JS.md",
-    "Javascript/Variables/Arrays/Array methods/array.shift() and .unshift().md",
-    "Javascript/Variables/Arrays/Array methods/array.pop() & .push().md",
-    "Javascript/Variables/Arrays/Array methods/array.splice().md",
+    "Javascript/Variables/Variables in JS.md",
     "Javascript/Variables/Arrays/Array methods/array.reduce().md",
     "Javascript/Variables/Arrays/Array methods/array.join().md",
-    "Javascript/Variables/Variables in JS.md",
+    "Javascript/Variables/Arrays/Array methods/array.pop() & .push().md",
+    "Javascript/Variables/Arrays/Array methods/array.forEach().md",
+    "Javascript/Variables/Arrays/Arrays in JS.md",
+    "Javascript/Variables/Arrays/Array methods/array.map().md",
+    "Javascript/Variables/Arrays/Array methods/array.shift() and .unshift().md",
+    "Javascript/Variables/Arrays/Array methods/array.splice().md",
     "cpp/Libraries/header files.md"
   ]
 }
