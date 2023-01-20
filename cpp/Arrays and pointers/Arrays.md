@@ -1,3 +1,4 @@
+
 ## Static arrays
 
 #### Create an array
