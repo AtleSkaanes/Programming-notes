@@ -16,6 +16,30 @@
             }
           },
           {
+            "id": "327616d005024d19",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Javascript/Variables/Arrays/Array functions/array.join().md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6e58de29e4a222ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "4c24d825a65202f2",
             "type": "leaf",
             "state": {
@@ -39,7 +63,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -105,6 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,6 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +169,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Untitled.md"
+              }
             }
           },
           {
@@ -180,8 +209,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ae6e1fa96e4956b0",
+  "active": "6e58de29e4a222ac",
   "lastOpenFiles": [
+    "Javascript/Variables/Arrays/Array functions/array.join().md",
     "Javascript/Variables/Variables in JS.md",
     "Javascript/Variables/Const keyword in JS.md",
     "Javascript/Variables/Strings in JS.md",
@@ -190,7 +220,6 @@
     "cpp/Classes/Classes in c++.md",
     "Javascript/Variables/Arrays/Arrays in JS.md",
     "cpp/General c++ notes.md",
-    "cpp/Variables and pointers/Pointers & References.md",
-    "cpp/Classes/Enums in c++.md"
+    "cpp/Variables and pointers/Pointers & References.md"
   ]
 }
