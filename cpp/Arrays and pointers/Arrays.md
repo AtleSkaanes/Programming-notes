@@ -14,7 +14,7 @@ So the location of each element can be found like this:
 | $$i$$      | index              |
 | $$i_0$$    | pointer to index 0 |
 $$ Memory Location = i_0 + i\cdot sizeof(typename)$$
-Meaning you start at the memory address of the first element.
+Meaning you start at the memory address of the first element. Then move the index times the size of the type forward in bytes to find the element at index
 
 #### Create an array
 ```cpp
