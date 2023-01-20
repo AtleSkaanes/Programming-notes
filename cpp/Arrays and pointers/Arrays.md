@@ -157,5 +157,7 @@ int main()
 20 : 100
 ```
 
- The map sorts the input keys from lowest to highest. This way it is easy to loop over the map in order, or take elements in front or behind the current element. Generally if the data needs to be ordered in any way, use a map.
+The map sorts the input keys from lowest to highest. This way it is easy to loop over the map in order, or take elements in front or behind the current element. Generally if the data needs to be ordered in any way, use a map.
 
+#### Unordered Map
+The unordered map is just what it sounds like. It is like the map but the elements aren't sorted in order. This maea
