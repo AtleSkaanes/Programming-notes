@@ -28,18 +28,6 @@
             }
           },
           {
-            "id": "6e58de29e4a222ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Javascript/Variables/Arrays/Array functions/array.join().md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "4194157c2734dcde",
             "type": "leaf",
             "state": {
@@ -75,8 +63,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -142,7 +129,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript/Variables/Arrays/Array functions/array.reduce().md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +145,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Javascript/Variables/Arrays/Array functions/array.reduce().md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,9 +166,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Javascript/Variables/Arrays/Array functions/array.reduce().md"
-              }
+              "state": {}
             }
           },
           {
@@ -221,8 +204,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "4194157c2734dcde",
+  "active": "ae6e1fa96e4956b0",
   "lastOpenFiles": [
+    "Javascript/Variables/Arrays/Array functions/array.reduce().md",
     "Javascript/Variables/Arrays/Array functions/array.join().md",
     "Javascript/Variables/Arrays/Array functions/array.forEach() and .map().md",
     "Javascript/Variables/Variables in JS.md",
@@ -231,7 +215,6 @@
     "Javascript/Variables/Objects in JS.md",
     "Javascript/General JS notes.md",
     "cpp/Classes/Classes in c++.md",
-    "Javascript/Variables/Arrays/Arrays in JS.md",
-    "cpp/General c++ notes.md"
+    "Javascript/Variables/Arrays/Arrays in JS.md"
   ]
 }
