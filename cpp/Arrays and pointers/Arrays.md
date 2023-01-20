@@ -11,10 +11,10 @@ And index 3 will be 12 bytes.
 So the location of each element can be found like this:
 | letter | meaning            |
 | ------ | ------------------ |
-|       | index              |
-| $$i0$$    | pointer to index 0 |
+| $$i$$      | index              |
+| $$i_0$$    | pointer to index 0 |
 $$ Memory Location = i_0 + i\cdot sizeof(typename)$$
-
+Meaning you start at the memory address of the first element.
 
 #### Create an array
 ```cpp
