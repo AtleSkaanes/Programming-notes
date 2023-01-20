@@ -16,7 +16,7 @@ So the location of each element can be found like this:
 $$ Memory Location = i_0 + i\cdot sizeof(typename)$$
 Meaning you start at the memory address of the first element. Then move the index times the size of the type forward in bytes to find the element at index.
 
-This is why all arrays are pointers. There is no type calle
+This is why all arrays are pointers. There is no type called an array. All we are doing is specifying that we want a pointer to the starting position in memory, and then with the `[]` operators we move forward in memory from that pointer.
 
 #### Create an array
 ```cpp
