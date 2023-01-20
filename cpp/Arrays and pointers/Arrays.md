@@ -9,7 +9,7 @@ Index 2 will be 8 bytes.
 And index 3 will be 12 bytes.
 
 So the location of each element can be found like this:
-$$ 1$$
+$$ i_loc = i_0 + $$
 
 #### Create an array
 ```cpp
