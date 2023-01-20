@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Javascript/Variables/Arrays/Array functions/Add or remove elemets of an array.md",
+                "file": "Javascript/Variables/Arrays/Array methods/Add or remove elemets of an array.md",
                 "mode": "source",
                 "source": false
               }
@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Javascript/Variables/Arrays/Array functions/array.splice().md",
+                "file": "Javascript/Variables/Arrays/Array methods/array.splice().md",
                 "mode": "source",
                 "source": false
               }
@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Javascript/Variables/Arrays/Array functions/array.join().md",
+                "file": "Javascript/Variables/Arrays/Array methods/array.join().md",
                 "mode": "source",
                 "source": false
               }
@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Javascript/Variables/Arrays/Array functions/array.reduce().md",
+                "file": "Javascript/Variables/Arrays/Array methods/array.reduce().md",
                 "mode": "source",
                 "source": false
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript/Variables/Arrays/Array functions/array.splice().md",
+                "file": "Javascript/Variables/Arrays/Array methods/array.splice().md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Javascript/Variables/Arrays/Array functions/array.splice().md",
+                "file": "Javascript/Variables/Arrays/Array methods/array.splice().md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Javascript/Variables/Arrays/Array functions/array.splice().md"
+                "file": "Javascript/Variables/Arrays/Array methods/array.splice().md"
               }
             }
           },
@@ -233,12 +233,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "7e176d3272d694fe",
+  "active": "ac91b022d35e4036",
   "lastOpenFiles": [
-    "Javascript/Variables/Arrays/Array functions/Add or remove elemets of an array.md",
-    "Javascript/Variables/Arrays/Array functions/array.reduce().md",
-    "Javascript/Variables/Arrays/Array functions/array.join().md",
-    "Javascript/Variables/Arrays/Array functions/array.forEach() and .map().md",
+    "Javascript/Variables/Arrays/Array methods/Add or remove elemets of an array.md",
+    "Javascript/Variables/Arrays/Array methods/array.reduce().md",
+    "Javascript/Variables/Arrays/Array methods/array.join().md",
+    "Javascript/Variables/Arrays/Array methods/array.forEach() and .map().md",
     "Javascript/Variables/Variables in JS.md",
     "Javascript/Variables/Const keyword in JS.md",
     "Javascript/Variables/Strings in JS.md",
