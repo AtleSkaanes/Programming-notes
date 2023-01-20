@@ -1,7 +1,8 @@
 ## Static arrays
 
 ##### What is an array
-An array is a data structure. It's used to organize multiple variables in one accessibly place. In memory the contents of the array are laid out in order and the computer finds each element by look
+An array is a data structure. It's used to organize multiple variables in one accessibly place. In memory the contents of the array are laid out in order and the computer finds each element by looking at your given index and the type of the array.
+If the array is an integer array. Each element takes 4 bytes, that means that 
 
 #### Create an array
 ```cpp
