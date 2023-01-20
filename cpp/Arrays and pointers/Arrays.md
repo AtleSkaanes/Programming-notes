@@ -1,8 +1,9 @@
-
 ## Static arrays
 
+##### What is an array
+An array is a data structure. It's used to organize multiple variables in one accessibly place. In memory the contents of the array are laid out in order and the computer finds each element by look
+
 #### Create an array
-An array is a data structure. It's used to organize multiple variables in one accessibly place. A regular array can be made like this:
 ```cpp
 int arrName[Optional size] = {1, 2, 3, 15};
 ```
