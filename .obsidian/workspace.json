@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Javascript/General JS notes.md",
+                "file": "cpp/Arrays and pointers/Arrays.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript/General JS notes.md",
+                "file": "cpp/Arrays and pointers/Arrays.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Javascript/General JS notes.md",
+                "file": "cpp/Arrays and pointers/Arrays.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Javascript/General JS notes.md"
+                "file": "cpp/Arrays and pointers/Arrays.md"
               }
             }
           },
@@ -193,9 +193,9 @@
   },
   "active": "a6142495ac0c76dd",
   "lastOpenFiles": [
+    "Javascript/General JS notes.md",
     "cpp/General c++ notes.md",
     "cpp/Arrays and pointers/Arrays.md",
-    "Javascript/General JS notes.md",
     "Javascript/Variables/Variables in JS.md",
     "cpp/Arrays and pointers/Pointers & References.md",
     "cpp/Classes/Classes in c++.md",
