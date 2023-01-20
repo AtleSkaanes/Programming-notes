@@ -52,4 +52,5 @@ TypeError: Assignment to constant variable.
 ```
 
 As you can see here, we successfully changed the `counter` variable, but we got an error when we tried to change the const  `PI` variable, since it was a constant.
+Refer to [[Const keyword in JS]] for more information about 
 
