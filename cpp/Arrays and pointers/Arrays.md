@@ -23,7 +23,7 @@ Go to the [[Pointers & References]] file for more info on pointers.
 ```cpp
 int arrName[Optional size] = {1, 2, 3, 15};
 ```
-If you don't give the array a size, the array will get a size matching the number of variables it was holding when it was declared. If you try to access an index that is out of range you will get errors.
+If you don't give the array a size, the array will get a size matching the number of variables it was holding when it was declared. If you try to access an index that is out of range, you will get errors.
 
 #### Access an array
 To access an array in c++ you use the square brackets: '`[]`' and type your index (starting at 0) in the brackets:
