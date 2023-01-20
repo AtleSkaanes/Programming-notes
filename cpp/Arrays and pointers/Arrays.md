@@ -160,4 +160,33 @@ int main()
 The map sorts the input keys from lowest to highest. This way it is easy to loop over the map in order, or take elements in front or behind the current element. Generally if the data needs to be ordered in any way, use a map.
 
 #### Unordered Map
-The unordered map is just what it sounds like. It is like the map, but the elements aren't sorted in order. This means the unordered map is faster to operate, but is less flexible. If the same example is used this is what it would look loke:
+The unordered map is just what it sounds like. It is like the map, but the elements aren't sorted in order. This means the unordered map is faster to operate, but is less flexible. If the same example is used this is what it would look like:
+```cpp
+int main()
+{
+	// Ordered map
+	std::map<int, int> order;
+
+	// Mapping values to keys
+	order[5] = 10;
+	order[3] = 5;
+	order[20] = 100;
+	order[1] = 1;
+
+	// Iterating the map and
+	// printing ordered values
+	for (auto i = order.begin(); i != order.end(); i++)
+	{
+		std::cout << i->first << " : " << i->second << '\n';
+	}
+}
+
+```
+
+``` Example output
+1 : 1
+20 : 100
+5 : 10
+3 : 5
+```
+This is what an output could look like if the contents are looped over. They are placed randomly inside 
