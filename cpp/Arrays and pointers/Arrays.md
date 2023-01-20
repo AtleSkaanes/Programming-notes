@@ -122,6 +122,14 @@ int main ()
 }
 ```
 
+```output
+Seafood: Barbara
+Deli:
+Bakery: John
+Gifts:
+Produce:
+```
+
 There are two types of maps, a normal map and an unordered map. The two have their own uses.
 
 #### 'Normal' map
