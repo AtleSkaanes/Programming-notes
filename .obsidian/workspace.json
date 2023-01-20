@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cpp/Arrays and pointers/Arrays.md",
+                "file": "Javascript/General JS notes.md",
                 "mode": "source",
                 "source": false
               }
@@ -114,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "cpp/Arrays and pointers/Arrays.md",
+                "file": "Javascript/General JS notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "cpp/Arrays and pointers/Arrays.md",
+                "file": "Javascript/General JS notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "cpp/Arrays and pointers/Arrays.md"
+                "file": "Javascript/General JS notes.md"
               }
             }
           },
@@ -174,13 +174,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 222.5,
-    "collapsed": true
+    "width": 222.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,15 +193,15 @@
   },
   "active": "a6142495ac0c76dd",
   "lastOpenFiles": [
-    "cpp/Arrays and pointers/Pointers & References.md",
+    "cpp/General c++ notes.md",
     "cpp/Arrays and pointers/Arrays.md",
+    "Javascript/General JS notes.md",
+    "Javascript/Variables/Variables in JS.md",
+    "cpp/Arrays and pointers/Pointers & References.md",
     "cpp/Classes/Classes in c++.md",
     "cpp/Libraries/header files.md",
     "cpp/Libraries/Libraries.md",
     "cpp/Libraries/SDL.md",
-    "Javascript/Variables/Arrays/Array methods/array.map().md",
-    "Javascript/Variables/Arrays/Array methods/array.join().md",
-    "Javascript/Variables/Arrays/Array methods/array.forEach().md",
-    "Pasted image 20230120180345.png"
+    "Javascript/Variables/Arrays/Array methods/array.map().md"
   ]
 }
