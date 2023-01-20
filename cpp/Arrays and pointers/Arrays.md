@@ -9,9 +9,10 @@ Index 2 will be 8 bytes.
 And index 3 will be 12 bytes.
 
 So the location of each element can be found like this:
-| letter | meaning |
-| ------ | ----- |
-|        |       |
+| letter | meaning            |
+| ------ | ------------------ |
+|       | index              |
+| $$i0$$    | pointer to index 0 |
 $$ Memory Location = i_0 + i\cdot sizeof(typename)$$
 
 
