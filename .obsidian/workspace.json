@@ -25,6 +25,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Javascript/Variables/Arrays/Array methods/array.forEach().md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a101d2f12ea7dd70",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Javascript/Variables/Arrays/Arrays in JS.md",
                 "mode": "source",
                 "source": false
@@ -80,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -225,17 +237,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "dbfa565756a07485",
+  "active": "a101d2f12ea7dd70",
   "lastOpenFiles": [
+    "Javascript/Variables/Arrays/Array methods/array.map().md",
+    "Javascript/Variables/Arrays/Array methods/array.forEach().md",
+    "Javascript/Variables/Arrays/Arrays in JS.md",
     "Javascript/Variables/Arrays/Array methods/array.shift() and .unshift().md",
     "Javascript/Variables/Arrays/Array methods/array.pop() & .push().md",
     "Javascript/Variables/Arrays/Array methods/array.splice().md",
     "Javascript/Variables/Arrays/Array methods/array.reduce().md",
     "Javascript/Variables/Arrays/Array methods/array.join().md",
     "Javascript/Variables/Variables in JS.md",
-    "cpp/Libraries/header files.md",
-    "www.youtube.com.md",
-    "cpp/Variables and pointers/Arrays.md",
-    "cpp/General c++ notes.md"
+    "cpp/Libraries/header files.md"
   ]
 }

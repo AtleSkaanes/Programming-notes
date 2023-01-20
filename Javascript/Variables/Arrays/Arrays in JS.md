@@ -10,4 +10,10 @@
 
 ### [[array.pop() & .push()]]
 
-### [[array.]]
+### [[array.forEach()]]
+
+### [[array.map()]]
+
+### [[array.pop() & .push()]]
+
+### [[a]]
