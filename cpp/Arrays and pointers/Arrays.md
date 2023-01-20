@@ -3,10 +3,13 @@
 ##### What is an array
 An array is a data structure. It's used to organize multiple variables in one accessibly place. In memory the contents of the array are laid out in order and the computer finds each element by looking at your given index and the type of the array.
 If the array is an integer array. Each element takes 4 bytes.
-This means that index 0 will be at the start position.
+This means index 0 will be at the start position.
 Index 1 will be 4 bytes out from index 0.
 Index 2 will be 8 bytes.
-Index 3 will be 12 bytes.
+And index 3 will be 12 bytes.
+
+So the location of each element can be found like this:
+$$ 1$$
 
 #### Create an array
 ```cpp
