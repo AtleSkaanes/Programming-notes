@@ -68,7 +68,7 @@ std::vector<const char*> myArr;
 while(true)
 {
 	myArr.push_back(std::cin);
-	if (myArr.back() == "return")
+	if (myArr.back() == "return") // the last element
 		break;
 }
 std::cout << myArr[3] << std::endl;
@@ -90,3 +90,72 @@ In the example above the myArr array will take inputs of words from the console 
 Go to [CPlusPlus](https://cplusplus.com/reference/vector/vector/) for a detailed guide of all the functions that come included in the vector header.
 
 ## Maps
+Maps are an alternate way of storing data, they are similar to `dictionaries` from c# and `hashmaps` from java. Instead of keeping track of the elements via the stored position, like a normal array, each element has a key.
+You can then search for that key in the map. And it will output the result.
+```cpp
+#include <iostream>
+#include <string>
+#include <unordered_map>
+
+int main ()
+{
+  std::unordered_map<std::string,std::string> mymap;
+
+  mymap["Bakery"]="Barbara";  // new element inserted
+  mymap["Seafood"]="Lisa";    // new element inserted
+  mymap["Produce"]="John";    // new element inserted
+
+  std::string name = mymap["Bakery"];   // existing element accessed (read)
+  mymap["Seafood"] = name;              // existing element accessed (written)
+
+  mymap["Bakery"] = mymap["Produce"];   // existing elements accessed (read/written)
+
+  name = mymap["Deli"];      // non-existing element: new element "Deli" inserted!
+
+  mymap["Produce"] = mymap["Gifts"];    // new element "Gifts" inserted, "Produce" written
+
+  for (auto& x: mymap) {
+    std::cout << x.first << ": " << x.second << std::endl;
+  }
+
+  return 0;
+}
+```
+
+There are two types of maps, a normal map and an unordered map. The two have their own uses.
+
+#### 'Normal' map
+The map is included via `#include <map>`
+The map is a map that can hold values by a key, but also in order like a regular array. So if you loop through the map via a for loop, you would get the output in order you filled the array:
+Example from [Geeks for Geeks]([map vs unordered_map in C++ - GeeksforGeeks](https://www.geeksforgeeks.org/map-vs-unordered_map-c/)).
+```cpp
+int main()
+{
+	// Ordered map
+	std::map<int, int> order;
+
+	// Mapping values to keys
+	order[5] = 10;
+	order[3] = 5;
+	order[20] = 100;
+	order[1] = 1;
+
+	// Iterating the map and
+	// printing ordered values
+	for (auto i = order.begin(); i != order.end(); i++)
+	{
+		std::cout << i->first << " : " << i->second << '\n';
+	}
+}
+
+```
+
+``` Output
+1 : 1
+3 : 5
+5 : 10
+20 : 100
+```
+
+ The map sorts the input keys from lowest to highest. This way it is easy to loop over the map in order, or take elements in front or behind the current element. Generally if the data needs to be ordered in any way, use a map.
+

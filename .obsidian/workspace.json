@@ -4,18 +4,51 @@
     "type": "split",
     "children": [
       {
-        "id": "073d7a9c7f0415bb",
+        "id": "e0c30c76c3c050ba",
         "type": "tabs",
         "children": [
           {
-            "id": "d741d3078209477f",
+            "id": "807bbe0be143221b",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "a6142495ac0c76dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cpp/Arrays and pointers/Arrays.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e758443b52b86360",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "cpp/Libraries/header files.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "00f7d2e84c1acd17",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "cpp/Arrays and pointers/Arrays.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +131,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "cpp/Arrays and pointers/Arrays.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -109,7 +144,7 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": false
+                "useHierarchy": true
               }
             }
           },
@@ -118,7 +153,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "cpp/Arrays and pointers/Arrays.md"
+              }
             }
           },
           {
@@ -138,7 +175,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -156,17 +193,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d741d3078209477f",
+  "active": "a6142495ac0c76dd",
   "lastOpenFiles": [
-    "cpp/General c++ notes.md",
+    "cpp/Arrays and pointers/Pointers & References.md",
+    "cpp/Arrays and pointers/Arrays.md",
+    "cpp/Classes/Classes in c++.md",
+    "cpp/Libraries/header files.md",
+    "cpp/Libraries/Libraries.md",
+    "cpp/Libraries/SDL.md",
+    "Javascript/Variables/Arrays/Array methods/array.map().md",
     "Javascript/Variables/Arrays/Array methods/array.join().md",
-    "Javascript/Variables/Arrays/Arrays in JS.md",
-    "Javascript/Variables/Const keyword in JS.md",
     "Javascript/Variables/Arrays/Array methods/array.forEach().md",
-    "Javascript/General JS notes.md",
-    "Javascript/Variables/Variables in JS.md",
-    "Javascript/Variables/Arrays/Array methods/array.reduce().md",
-    "Javascript/Variables/Arrays/Array methods/array.pop() & .push().md",
-    "Javascript/Variables/Arrays/Array methods/array.map().md"
+    "Pasted image 20230120180345.png"
   ]
 }
