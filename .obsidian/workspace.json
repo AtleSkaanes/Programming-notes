@@ -28,18 +28,6 @@
             }
           },
           {
-            "id": "ac91b022d35e4036",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "www.youtube.com.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "327616d005024d19",
             "type": "leaf",
             "state": {
@@ -88,7 +76,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -154,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "www.youtube.com.md",
+                "file": "Javascript/Variables/Arrays/Array methods/Add or remove elemets of an array.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "www.youtube.com.md",
+                "file": "Javascript/Variables/Arrays/Array methods/Add or remove elemets of an array.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "www.youtube.com.md"
+                "file": "Javascript/Variables/Arrays/Array methods/Add or remove elemets of an array.md"
               }
             }
           },
@@ -233,8 +221,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ac91b022d35e4036",
+  "active": "ee92c2ff0df6b0ae",
   "lastOpenFiles": [
+    "www.youtube.com.md",
     "Javascript/Variables/Arrays/Array methods/array.splice().md",
     "Javascript/Variables/Arrays/Array methods/Add or remove elemets of an array.md",
     "cpp/Libraries/header files.md",
@@ -243,7 +232,6 @@
     "Javascript/General JS notes.md",
     "Javascript/Variables/Arrays/Array methods/array.reduce().md",
     "Javascript/Variables/Arrays/Array methods/array.join().md",
-    "Javascript/Variables/Arrays/Array methods/array.forEach() and .map().md",
-    "Javascript/Variables/Variables in JS.md"
+    "Javascript/Variables/Arrays/Array methods/array.forEach() and .map().md"
   ]
 }
