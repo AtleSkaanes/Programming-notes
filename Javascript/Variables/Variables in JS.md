@@ -22,8 +22,8 @@ There are 3 variable keywords:
 
 | Keyword | Usage                                                                          | When were/is it used |
 | ------- | ------------------------------------------------------------------------------ | -------------------- |
-| let     | To declare a variable that can change, **isn't** supported in older browsers   | 2015 - ...           |
-| const   | To declare a variable that can't change, **isn't** supported in older browsers | 2015 - ...           |
+| let     | To declare a variable that can change, **isn't** supported in older browsers   | 2015 - present       |
+| const   | To declare a variable that can't change, **isn't** supported in older browsers | 2015 - present       | 
 | Var     | Old way to declare a variable, **is** supported in older browsers              | 1995 - 2015          |
 
 
