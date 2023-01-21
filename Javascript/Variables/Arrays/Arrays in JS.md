@@ -11,6 +11,7 @@
 
 ## What is an array?
 
+An array is a "list" of data
 
 ## Array methods
 
