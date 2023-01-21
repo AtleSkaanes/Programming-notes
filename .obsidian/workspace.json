@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Javascript/Variables/Arrays/Arrays in JS.md",
+                "file": "Javascript/Variables/Variables in JS.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Javascript/Variables/Arrays/Arrays in JS.md",
+                "file": "Javascript/Variables/Variables in JS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Javascript/Variables/Arrays/Arrays in JS.md",
+                "file": "Javascript/Variables/Variables in JS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Javascript/Variables/Arrays/Arrays in JS.md"
+                "file": "Javascript/Variables/Variables in JS.md"
               }
             }
           },
@@ -166,6 +166,7 @@
   },
   "active": "d741d3078209477f",
   "lastOpenFiles": [
+    "Javascript/Variables/Arrays/Arrays in JS.md",
     "cpp/Arrays and pointers/Arrays.md",
     "cpp/General c++ notes.md",
     "cpp/Libraries/SDL.md",
@@ -174,7 +175,6 @@
     "cpp/Classes/Structs in c++.md",
     "cpp/Classes/Interfaces in c++.md",
     "cpp/Classes/Enums in c++.md",
-    "cpp/Classes/Classes in c++.md",
-    "cpp/Arrays and pointers/Pointers & References.md"
+    "cpp/Classes/Classes in c++.md"
   ]
 }
