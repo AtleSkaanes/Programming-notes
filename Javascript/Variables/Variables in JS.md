@@ -64,3 +64,4 @@ $$0,06=\frac{\pi}{6}\cdot h^2 \cdot (6x-2h)$$
 
 $$0,06=\frac{\pi}{6}\cdot 6xh^2-2h^3$$
 $$\frac{0,06}{\frac{\pi}{6}\cdot 6x}=h^2-\frac{2h^3}{\frac{\pi}{6}\cdot 6x}$$
+
