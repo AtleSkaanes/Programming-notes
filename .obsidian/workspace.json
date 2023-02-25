@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "Python/Things to do in python/Neural networks/Raw neural network in python.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "Python/Things to do in python/Neural networks/Raw neural network in python.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "Python/Things to do in python/Neural networks/Raw neural network in python.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "Python/Things to do in python/Neural networks/Raw neural network in python.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled 1.md"
+                "file": "Python/Things to do in python/Neural networks/Raw neural network in python.md"
               }
             }
           },
@@ -191,7 +191,8 @@
   },
   "active": "91fee46b3c67ab8f",
   "lastOpenFiles": [
-    "Untitled.md",
+    "Untitled 1.md",
+    "Python/Things to do in python/Neural networks/Raw neural network in python.md",
     "Javascript/Variables/Variables in JS.md",
     "Javascript/Variables/Arrays/Arrays in JS.md",
     "cpp/Arrays and pointers/Arrays.md",
@@ -199,7 +200,6 @@
     "cpp/Libraries/SDL.md",
     "cpp/Libraries/Libraries.md",
     "cpp/Libraries/header files.md",
-    "cpp/Classes/Structs in c++.md",
-    "cpp/Classes/Interfaces in c++.md"
+    "cpp/Classes/Structs in c++.md"
   ]
 }
