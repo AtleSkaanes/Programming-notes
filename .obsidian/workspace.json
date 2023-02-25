@@ -43,8 +43,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Python/Things to do in python/Neural networks/Raw neural network in python.md",
+                "file": "Javascript/Variables/Variables in JS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Python/Things to do in python/Neural networks/Raw neural network in python.md",
+                "file": "Javascript/Variables/Variables in JS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Python/Things to do in python/Neural networks/Raw neural network in python.md"
+                "file": "Javascript/Variables/Variables in JS.md"
               }
             }
           },
@@ -189,10 +188,10 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "91fee46b3c67ab8f",
+  "active": "d741d3078209477f",
   "lastOpenFiles": [
-    "Untitled 1.md",
     "Python/Things to do in python/Neural networks/Raw neural network in python.md",
+    "Untitled 1.md",
     "Javascript/Variables/Variables in JS.md",
     "Javascript/Variables/Arrays/Arrays in JS.md",
     "cpp/Arrays and pointers/Arrays.md",
