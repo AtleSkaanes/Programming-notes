@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Concepts/Neural networks/Raw neural network in python.md",
+                "file": "Concepts/Neural networks/What is a neural network.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Concepts/Neural networks/Raw neural network in python.md",
+                "file": "Concepts/Neural networks/What is a neural network.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Concepts/Neural networks/Raw neural network in python.md",
+                "file": "Concepts/Neural networks/What is a neural network.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Concepts/Neural networks/Raw neural network in python.md"
+                "file": "Concepts/Neural networks/What is a neural network.md"
               }
             }
           },
@@ -166,9 +166,9 @@
   },
   "active": "37031b02a5485b7f",
   "lastOpenFiles": [
+    "Concepts/Neural networks/What is a neural network.md",
     "Concepts",
     "Javascript/Variables/Variables in JS.md",
-    "Concepts/Neural networks/Raw neural network in python.md",
     "Untitled 1.md",
     "Javascript/Variables/Arrays/Arrays in JS.md",
     "cpp/Arrays and pointers/Arrays.md",
