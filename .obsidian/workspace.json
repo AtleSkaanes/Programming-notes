@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "962c5ce37d986fb8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Concepts/Neural networks/What is a neural network.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -164,7 +177,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "37031b02a5485b7f",
+  "active": "962c5ce37d986fb8",
   "lastOpenFiles": [
     "1 Gh5PS4R_A5drl5ebd_gNrg@2x.webp",
     "Concepts/Neural networks/What is a neural network.md",
