@@ -30,9 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "8e082557b45b1b60",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.16"
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -75,6 +85,14 @@
             "type": "leaf",
             "state": {
               "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "644f43669832da2d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
               "state": {}
             }
           }
@@ -177,7 +195,7 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "962c5ce37d986fb8",
+  "active": "8e082557b45b1b60",
   "lastOpenFiles": [
     "Concepts/Neural networks/What is a neural network.md",
     "1 Gh5PS4R_A5drl5ebd_gNrg@2x.webp",
