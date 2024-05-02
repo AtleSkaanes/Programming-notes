@@ -30,19 +30,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "8e082557b45b1b60",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.16"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -195,15 +185,16 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8e082557b45b1b60",
+  "active": "962c5ce37d986fb8",
   "lastOpenFiles": [
+    "cpp/Arrays and pointers/Pointers & References.md",
+    "cpp/Arrays and pointers/Arrays.md",
     "Concepts/Neural networks/What is a neural network.md",
     "1 Gh5PS4R_A5drl5ebd_gNrg@2x.webp",
     "Concepts",
     "Javascript/Variables/Variables in JS.md",
     "Untitled 1.md",
     "Javascript/Variables/Arrays/Arrays in JS.md",
-    "cpp/Arrays and pointers/Arrays.md",
     "cpp/General c++ notes.md",
     "cpp/Libraries/SDL.md",
     "cpp/Libraries/Libraries.md",
